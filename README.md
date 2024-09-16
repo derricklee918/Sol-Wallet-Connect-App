@@ -2,6 +2,7 @@
 
     On-chain send message by instruction data to Solana wallet via on Solana
 
+![alt text](./new.jpg)
 
 ### How to run.
 
