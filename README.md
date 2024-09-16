@@ -1,4 +1,4 @@
-### Send message to solana wallet.
+# Send message to solana wallet.
 
     On-chain send message by instruction data to Solana wallet via on Solana
 
@@ -9,21 +9,18 @@
 $ npm i
 $ npm run cluster:devnet
 ```
-### Build the on-chain program
 
+### Build the on-chain program
 
 ```bash
 $ npm run build:program-rust
-
-
+```
 
 ### Run the client
 
 ```bash
 $ npm run server
-
 server started at http://localhost:8888
-
 ```
 
 ### To do list:
